@@ -1,0 +1,1 @@
+INSERT INTO tab1 (x) SELECT random() * 100 FROM generate_series (1,1000);

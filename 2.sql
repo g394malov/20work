@@ -1,0 +1,1 @@
+CREATE TABLESPACE space3 OWNER "user" LOCATION 'D:\space1';
